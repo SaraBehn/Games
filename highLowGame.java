@@ -1,3 +1,5 @@
+//A simple high-low game that prompts a user to guess a number between two bounds 
+//and gives feedback on whether the guess is too high or too low
 import java.util.Scanner;
 
 public class highLowGame {
