@@ -1,3 +1,5 @@
+//UNFINISHED
+//A Java version of the popular game show "Deal or No Deal"
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
