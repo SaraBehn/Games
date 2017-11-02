@@ -1,3 +1,5 @@
+//UNFINISHED
+//A "guess who" type game for the students in my class
 import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Scanner;
