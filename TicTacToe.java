@@ -1,3 +1,5 @@
+//UNFINISHED
+//A Java version of the game TicTacToe
 import java.util.Scanner;
 
 public class TicTacToe {
